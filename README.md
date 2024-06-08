@@ -5,3 +5,4 @@
 - [Digital Clock](https://github.com/henrichfs/digital-clock)
 - [Busca Dev](https://github.com/henrichfs/buscadev)
 - [Formulário de Contato](https://github.com/henrichfs/formulario-de-contato)
+- [Formulário de Cadastro](https://github.com/henrichfs/formulario-de-cadastro)
